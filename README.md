@@ -1,3 +1,3 @@
 # Bio
 Hello This is my first repository  
-Dedicated to IBM Data Science Certificate
+Dedicated to IBM Data Science Courses
